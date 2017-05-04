@@ -1,0 +1,31 @@
+{
+    "name": "vinny/fimgasficon",
+    "type": "phpbb-extension",
+    "description": "Hides default style forum icon, replacing it with forum image that you add in the settings of each forum",
+    "homepage": "https://vinny.github.io/",
+    "version": "1.0.0",
+	"keywords": ["phpbb", "extension", "forum icons"],
+    "license": "GPL-2.0",
+    "authors": [
+        {
+            "name": "_Vinny_",
+            "email": "vinnykun01@gmail.com",
+            "homepage": "https://vinny.github.io/",
+            "role": "Extension Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3"
+    },
+    "extra": {
+        "display-name": "Forum image as forum icon",
+        "soft-require": {
+            "phpbb/phpbb": ">=3.2.0"
+        },
+        "version-check": {
+            "host": "www.phpbb.com",
+            "directory": "/customise/db/extension/forum_image_as_forum_icon",
+            "filename": "version_check"
+        }
+    }
+}
