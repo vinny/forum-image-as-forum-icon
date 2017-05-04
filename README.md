@@ -2,6 +2,8 @@
 
 This extension hides default style forum icon, replacing it with forum image that you add in the settings of each forum. 
 
+[![Forum image as forum icon](http://i.imgur.com/0S7LrPc.png)](http://i.imgur.com/0S7LrPcb.png)
+
 
 ## LICENSE
 
