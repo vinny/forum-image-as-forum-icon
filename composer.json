@@ -1,26 +1,25 @@
 {
     "name": "vinny/fimgasficon",
     "type": "phpbb-extension",
-    "description": "Hides default style forum icon, replacing it with forum image that you add in the settings of each forum",
+    "description": "Hides default style forum icon, replacing it with forum image that you add in the settings of each forum. If the forum has unread posts, the forum link changes to a highlighted color. If the forum has read posts, forum image changes color to a grayscale that indicates read posts.",
     "homepage": "https://vinny.github.io/",
-    "version": "1.0.0",
+    "version": "1.1.0",
 	"keywords": ["phpbb", "extension", "forum icons"],
     "license": "GPL-2.0",
     "authors": [
         {
             "name": "_Vinny_",
             "email": "vinnykun01@gmail.com",
-            "homepage": "https://vinny.github.io/",
-            "role": "Extension Developer"
+            "homepage": "https://vinny.github.io/"
         }
     ],
     "require": {
-        "php": ">=5.3.3"
+        "php": ">=5.4"
     },
     "extra": {
         "display-name": "Forum image as forum icon",
         "soft-require": {
-            "phpbb/phpbb": ">=3.2.0"
+            "phpbb/phpbb": ">=3.2.0,<3.3"
         },
         "version-check": {
             "host": "www.phpbb.com",
