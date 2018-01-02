@@ -3,7 +3,7 @@
     "type": "phpbb-extension",
     "description": "Hides default style forum icon, replacing it with forum image that you add in the settings of each forum. If the forum has unread posts, the forum link changes to a highlighted color. If the forum has read posts, forum image changes color to a grayscale that indicates read posts.",
     "homepage": "https://vinny.github.io/",
-    "version": "1.1.0",
+    "version": "1.1.1",
 	"keywords": ["phpbb", "extension", "forum icons"],
     "license": "GPL-2.0",
     "authors": [

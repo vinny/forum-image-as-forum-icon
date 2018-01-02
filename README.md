@@ -5,6 +5,12 @@ This extension Hides default style forum icon, replacing it with forum image tha
 [![Forum image as forum icon](http://i.imgur.com/0S7LrPcb.png)](http://i.imgur.com/0S7LrPc.png) [![Forum image as forum icon](http://i.imgur.com/BFSqiZlb.png)](http://i.imgur.com/BFSqiZl.png)
 
 
+
+## Donate
+ If you like this extension and want to show some appreciation, you can make a donation.
+[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JWB6R5RMVQTT8)
+
+
 ## LICENSE
 
 [GNU General Public License v2](http://opensource.org/licenses/gpl-2.0.php)

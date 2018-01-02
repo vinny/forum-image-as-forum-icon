@@ -1,5 +1,9 @@
 dl.row-item dt .list-inner {
-	padding-left: 7px !important;
+	padding-left: 14px !important;
+}
+
+li.header dl.row-item dt .list-inner {
+	padding-left: 0 !important;
 }
 
 .forum_link, .forum_read, .forum_read_locked, .forum_read_subforum, .forum_unread, .forum_unread_locked, .forum_unread_subforum { 
@@ -10,11 +14,11 @@ dl.row-item dt .list-inner {
 	padding-left: 38px !important;
 }
 
-.forum_read span.forum-image img {
+.forum_read span.forum-image img, .forum_read_locked span.forum-image img, .forum_read_subforum span.forum-image img {
 	filter: grayscale(100%);
 	-webkit-filter: grayscale(100%);
 }
 
-.forum_unread a.forumtitle {
+.forum_unread a.forumtitle, .forum_unread_locked a.forumtitle, .forum_unread_subforum a.forumtitle {
 	color: #D31141;
 }
